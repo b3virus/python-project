@@ -1,0 +1,16 @@
+print("Hello ,World/")
+print("Hey,There")
+print("I am question.  "   +  " Yup my name is question.  ")
+print("TOday i will ask you a question")
+print("Ready?"  +  "Go!!!")
+count = 5
+while count > 0 :
+    print(count)
+    count = count - 1
+name = input("What is your name? ")
+age  = input("What is your age? ")
+hobby = input("What is your hobby? ")
+print("g'day,",name )  
+print("Whose age is,",age)   
+print("Which loves,",hobby)
+
